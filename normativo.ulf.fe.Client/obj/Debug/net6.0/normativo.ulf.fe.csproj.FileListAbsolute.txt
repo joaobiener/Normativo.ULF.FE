@@ -1,0 +1,6 @@
+C:\microservices\UnimeLF\Frontends\normativo.ulf.fe\BlazorProducts.Client\obj\Debug\net6.0\normativo.ulf.fe.csproj.AssemblyReference.cache
+C:\microservices\UnimeLF\Frontends\normativo.ulf.fe\BlazorProducts.Client\obj\Debug\net6.0\normativo.ulf.fe.GeneratedMSBuildEditorConfig.editorconfig
+C:\microservices\UnimeLF\Frontends\normativo.ulf.fe\BlazorProducts.Client\obj\Debug\net6.0\normativo.ulf.fe.AssemblyInfoInputs.cache
+C:\microservices\UnimeLF\Frontends\normativo.ulf.fe\BlazorProducts.Client\obj\Debug\net6.0\normativo.ulf.fe.AssemblyInfo.cs
+C:\microservices\UnimeLF\Frontends\normativo.ulf.fe\BlazorProducts.Client\obj\Debug\net6.0\normativo.ulf.fe.csproj.CoreCompileInputs.cache
+C:\microservices\UnimeLF\Frontends\normativo.ulf.fe\BlazorProducts.Client\obj\Debug\net6.0\normativo.ulf.fe.MvcApplicationPartsAssemblyInfo.cache
